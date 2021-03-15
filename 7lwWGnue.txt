@@ -1,0 +1,1 @@
+[{"model":"Intel(R) Celeron(R) CPU 5205U @ 1.90GHz","speed":1896,"times":{"user":17852906,"nice":0,"sys":15121390,"idle":103919265,"irq":2764562}},{"model":"Intel(R) Celeron(R) CPU 5205U @ 1.90GHz","speed":1896,"times":{"user":18833109,"nice":0,"sys":12468140,"idle":105591875,"irq":343703}}]
